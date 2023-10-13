@@ -510,4 +510,4 @@ This project is licensed under the [BSD 3-Clause License](LICENSE).
 
  
 
-For questions or feedback, please contact [MANISHA BISWAL](mailto:manishabiswal0227@gmail.com).
+For questions or feedback, please contact [Aniket Mishra](aniketmishra2728@gmail.com).
